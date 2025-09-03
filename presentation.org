@@ -26,9 +26,9 @@
     :PROPERTIES:
    :ORG-IMAGE-ACTUAL-WIDTH: 400
    :END:
-    Because of the free time I had, I spent a lot of time reading what I consider to be the best intro to programming/computer science book ever written. During this semester, Shriram Krishnamurthi (the Vice President of Programming Languages at Brown University, Rhode Island, USA) came to give a few talks here. I attended those too. There was also another talk by John Azariah, a senior engineer from Microsoft, developer of F# and Q#.
+    Because of the free time I had, I spent a lot of time reading what I consider to be the best intro to programming/computer science book ever written. During this semester, Shriram Krishnamurthi (the Vice President of Programming Languages at Brown University, Rhode Island, USA) came to give a few talks here. I attended those too. There was also another talk by John Azariah, a senior engineer from Microsoft, developer of F# and Q#. [Below, Suigintou from Rozen Maiden holding up a copy of Structure and Interpretation of Computer Programs, image from 4chan/jp]
 
-    [[file:./sicp.png]] Suigintou from Rozen Maiden holding up a copy of Structure and Interpretation of Computer Programs, image from 4chan/jp
+    [[file:./sicp.png]] 
 *** Summer Break I
 **** My first interaction with Balu
      [[file:./balu.png]]
@@ -78,10 +78,11 @@
 *** Sem V
    This sem I'm looking forward to a few things
    - Getting my research paper published at FSTTCS
+   - Getting more research done with Abhishek Sir and submitting to RHPL
    - Organising projects for ,\ AMBDA.
    - Completing my (heavy) coursework.
 *** The Future?
-    [[file:./inria.ong]]
+    [[file:./inria.png]]
 
 * General Advice (Gyaan)
 
