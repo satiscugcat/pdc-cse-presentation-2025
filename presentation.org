@@ -1,0 +1,128 @@
+#+title: PDC-2025
+#+date: 3rd September, 2025
+#+author: Sati
+* Introducing Myself
+** Who am I?
+   My birthname is Aniket Mishra, I am a BTech'23 CSE student at IIT Gandhinagar. I am also queer, having found comfort in identifying as a trans person. To this extent I prefer the name Sati.
+** Why am I giving this talk?
+   I don't know. For some reason I have been invited to give you career advice today. I think the path I have been following has been very specific, and I'm not sure how much general advice can be extracted from it. However, I will try my best. 
+* My Journey
+** Before the Beginning
+   I had been exposed to computers before IITGN. Our school had a computer lab, where we learnt different things over the years. Because of COVID, I also spent a lot of time on online forums and discord servers.
+** Coming to IIT Gandhinagar
+   This university was a breath of fresh air for me. I absolutely hated JEE prep, on which I'd spent 4 years of my life. The pressure I'd been put through at home meant I got pretty comfortable pretty quick living alone for the first time in my life, and was excited to talk to new people, professors, and make use of college facilities.
+** Piece-Wise Summary
+   
+*** Sem I
+    :PROPERTIES:
+   :ORG-IMAGE-ACTUAL-WIDTH: 300
+   :END:
+    Due to my distaste of JEE prep, I could never get into DSA grinding, competitive programming, etc. The competitive nature surrounding these things felt awful to me, and I didn't want to lose myself in a toxic environment. I did love reading though. The C Programming Language by Kernighan&Ritchie was the first book I ever read.
+    
+    [[file:./cbook.jpg]]
+*** Winter Break I
+    All I did during this break was read books for the next semester. I spent a lot of time preparing for PSDV, which made gave me a lot of free time during the semester itself.
+*** Sem II
+    :PROPERTIES:
+   :ORG-IMAGE-ACTUAL-WIDTH: 400
+   :END:
+    Because of the free time I had, I spent a lot of time reading what I consider to be the best intro to programming/computer science book ever written. During this semester, Shriram Krishnamurthi (the Vice President of Programming Languages at Brown University, Rhode Island, USA) came to give a few talks here. I attended those too. There was also another talk by John Azariah, a senior engineer from Microsoft, developer of F# and Q#.
+
+    [[file:./sicp.png]] Suigintou from Rozen Maiden holding up a copy of Structure and Interpretation of Computer Programs, image from 4chan/jp
+*** Summer Break I
+**** My first interaction with Balu
+     [[file:./balu.png]]
+**** My first interaction with Abhishek Sir
+     [[file:./abhi.png]]
+**** Reading
+    :PROPERTIES:
+     :ORG-IMAGE-ACTUAL-WIDTH: 300
+     :END:
+    Summer break was also, a LOT of reading. These are the books I read during my summer time.
+     [[file:./clrs.png]] [[file:./tapl.png]] [[file:./ci.png]] [[file:./rust.png]]
+**** I use Arch, btw
+     :PROPERTIES:
+     :ORG-IMAGE-ACTUAL-WIDTH: 300
+     :END:
+     Summer Break was also when I switched from Windows to Arch Linux. I also switched to EMACS from VSCode.
+     [[file:./arch.png]] [[file:./emacs.png]]
+*** Sem III + Winter Break II
+    Sem III was hectic for me in quite a few ways. I'd become a general member of the technical council, and it was during this time that I started ,\ AMBDA. There are five major and relevant things that I can discuss -
+**** Opportunity Open Source Conference
+     [[file:./oosc.png]]
+**** Project Course with Abhishek Sir
+     My project with Abhishek Sir won me 2nd place in the UG Research Showcase.
+**** Applying to Winter School on Formal Verification and Project on Automated Theorem Proving
+     [[file:./iitd.png]]
+**** FSTTCS
+     :PROPERTIES:
+     :ORG-IMAGE-ACTUAL-WIDTH: 300
+     :END:
+     [[file:./fsttcs.png]] [[file:./fsttcs_spons.png]]
+*** Sem IV
+    During my fourth semester, I organised a Shortcourse on Interactive Theorem Proving. I also reached out to CRYSPEN for an internship. I also went to the Indian Conference on Logic and its Applications.
+**** How I came to know about it
+     [[file:./cryspenjob.png]]
+**** How I applied
+     [[file:./PLEASE.png]]
+*** Summer Break II
+**** Working with CRYSPEN
+     [[file:./karthik.png]]
+**** Compensation
+     [[file:./cryspen.png]]
+**** Results
+     [[file:./PR.png]]
+     [[file:./amazon.png]]
+**** Formal Methods Update Meet 2025
+     I gave a talk on my work at the [[https://fmindia.cmi.ac.in/update2025/][Formal Methods Update Meet 2025]] 
+*** Sem V
+   This sem I'm looking forward to a few things
+   - Getting my research paper published at FSTTCS
+   - Organising projects for ,\ AMBDA.
+   - Completing my (heavy) coursework.
+*** The Future?
+    [[file:./inria.ong]]
+
+* General Advice (Gyaan)
+
+** Living in the Light [Ridiculon]
+   The most impactful skill in your computer science career will be being able to walk up to someone who doesn't know you and introducing yourself to them. Computer Science is a field based on the work of many people more than anything. Try to sit in the front bench of your class (or if you're not in the front bench, try to speak louder). Be active in going to talks and conferences. Interact with professors, they are the biggest resource you have in an IIT. Don't be afraid to reach for what seems out of reach.  One connection in real life is more important than 500 connections on LinkedIn.
+
+** Mr. Blue Sky [Electric Light Orchestra]
+   The possibility space in Computer Science is vast. Care about doing what interests you, it is fine even if it's not Computer Science. And do not worry about higher studies vs job. If you wanna make money, both are valid options (in fact, PhDs tend to have higher RoI in the long term in CS). The only thing that matters in deciding to do a PhD is whether you think you have had a PhD. It is fine even if you don't like programming! This should be one of the first things for you to figure out.
+   
+** Yes, to Err is Human, So Don't Be One. [Will Wood]
+   Is what certain posts/posters you may see online (particularly on LinkedIn) may have you believe. I decided against including information about "mistakes" I made. You may mess up. That is OK, it is not the end of the world. Furthermore, life is hectic, and sometimes cruel. You don't have to be on 100% of your productivity of all the time (or even 50% tbh). It is okay to take breaks for yourself. You won't die if you don't work 80 hours a week. All that's important is that you do what matters to you, and that you genuinely care about something.
+
+** We Didn't Start the Fire [Billy Joel]
+   Whatever problem you have had, someone has had it before (almost always). Someone else has made it through, so can you. Stay calm, and just look up information on how to get through it, and act. The most important thing is to act.
+** 21^st Century Schizoid Man [King Crimson]
+   In all the time I have spent here I have avoided using LLMs. Perhaps this is pedantic, but I think this decision is safer in the long run. Using LLMs is helpful when you know what you are doing (and hence can rectify its "hallucinations"). The existence of calculators has not diminished the value of learning arithmetic. The existence of LLMs has not diminished the value of learning. (And /definitely/ don't use LLMs for writing. It may seem nicer and more structured to you right now, but in the process you lose the identity that you express in your style of writing. One of the few permanent traces of yourself you will leave behind on this world.)
+
+** Hope in Work and Joy in Leisure [Sea Power]
+   CPI is somewhat important, but don't stress over it. Definitely not if it's above 8/8.5. Don't be afraid to take courses that are interesting to you because of their impact on your CPI. I took Compilers a year early because Balu was teaching it and it was one of the best courses I have taken here, and I learned quite a bit from it. And do not dismiss the value of leisure. Rainworld is one of my favourite video games ever, and I consider it (along with Disco Elysium) to be the two best games made in the history of mankind. Following is a snippet from its devlogs, written by developer Joar Jakobsson.
+
+   [[file:./rainworld.png]]
+
+** Video Killed the Radio Star [The Buggles]
+   A lot of the culture that I've seen surrounding software engineering focuses on new talent. "Cracked devs", "young founders", etc. There is nothing wrong with this. But do remember that one day you will be 40, and then you will be 60, and you will eventually die. The companies that hire you will take note of your degrading faculties, busier lives, etc. and hire newer, and more desperate devs willing to work for less to replace you. Especially with the introduction of new technologies. So getting a well paying SWE job at say Google or Amazon isn't enough to guarantee job security. Try to have long term plans, and keep exploring new things throughout your life. This doesn't happen so much in research, where decades of experience are worth their weight in gold. Which is one of the things that I think is nice about reasearch.
+
+** Welcome to the Jungle/Dream Sweet in Sea Major [Guns N' Roses]/[Miracle Musical]
+   The world can seem very scary, that is because it is. It is ok if this causes you concern or anxiety, all that would indicate is that you are human. But you will always be able to find cool, interesting, and friendly people, in the most unlikeliest of places. This applies to both professors and fellow students. The logo of my hobby group (,\ AMBDA.) was inspired by an email I got from Balue a long while ago. 
+   [[file:./balu2.png]]
+   
+* Concluding
+  #+BEGIN_QUOTE
+  I think that it’s extraordinarily important that we in computer science keep fun in computing. When it started out, it was an awful lot of fun. Of course, the paying customers got shafted every now and then, and after a while we began to take their complaints seriously. We began to feel as if we really were responsible for the successful, error-free perfect use of these machines. I don’t think we are. I think we’re responsible for stretching them, sending them off in new directions, and keeping fun in the house. I hope the field of computer science never loses its sense of fun. Above all, I hope we don’t become missionaries. Don’t feel as if you’re Bible salesmen. e world has too many of those already. What you know about computing other people will learn. Don’t feel as if the key to successful computing is only in your hands. What’s in your hands, I think and hope, is intelligence: the ability to see the machine as more than when you were first led up to it, that you can make it more.”
+#+END_QUOTE
+  — /Alan J. Perlis (April 1, 1922 – February 7, 1990)/
+  /From the Foreword of SICP/
+* Where to Find Me
+  Email me at [[mailto:aniket,mishra@iitgn.ac.in][aniket.mishra@iitgn.ac.in]]
+  Whatsapp me at +91 79803 22231
+  Discord me at =satislugcat=
+  Github me at =satiscugcat=
+
+  After the QnA at the end of this session I will be chilling at the terrace near the CSE workspace. You can accompany me there. Fly high, free birds!
+  [[file:./view.png]]
+  
