@@ -3,7 +3,7 @@
 #+author: Sati
 * Introducing Myself
 ** Who am I?
-   My birthname is Aniket Mishra, I am a BTech'23 CSE student at IIT Gandhinagar. I am also queer, having found comfort in identifying as a trans person. To this extent I prefer the name Sati. I haveve done work in programming languages, type theory, and formal verification. However, this talk is only tangentially related to that. What I hope you will gain from this talk, is perspective. Perspective, and assurance in the choices you will make in the upcoming years.
+   My birthname is Aniket Mishra, I am a BTech'23 CSE student at IIT Gandhinagar. I am also queer, having found comfort in identifying as a trans person. To this extent I prefer the name Sati. I have done work in programming languages, type theory, and formal verification. However, this talk is only tangentially related to that. What I hope you will gain from this talk, is perspective. Perspective, and assurance in the choices you will make in the upcoming years.
 ** Why am I giving this talk?
    I don't know. For some reason I have been invited to give you career advice today. I certainly don't consider myself an authority on this, I think the path I have been following has been very specific, and I'm not sure how much general advice can be extracted from it. However, I will try my best. 
 * My Journey
