@@ -39,6 +39,7 @@
      :ORG-IMAGE-ACTUAL-WIDTH: 300
      :END:
     Summer break was also, a LOT of reading. These are the books I read during my summer time.
+    
      [[file:./clrs.png]] [[file:./tapl.png]] [[file:./ci.png]] [[file:./rust.png]]
 **** I use Arch, btw
      :PROPERTIES:
